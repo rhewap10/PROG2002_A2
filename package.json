@@ -1,0 +1,13 @@
+{
+    "name": "inventory-ts-app",
+    "version": "1.0.0",
+    "description": "assignment",
+    "scripts": {
+        "build": "tsc",
+        "start": "npx live-server src --open=./index.html --port=8081"
+    },
+    "devDependencies": {
+        "live-server": "^1.2.2",
+        "typescript": "^5.0.0"
+    }
+}
